@@ -1,7 +1,7 @@
 title: no style, please! # name of the site
 author: minakim-int # name of site's author
 email: ssukimmina@gmail.com # email of site's author
-url: "https://minakim-int.github.io" # root address of the site
+url: https://minakim-int.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
@@ -9,9 +9,9 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analyticsre
 
-theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
