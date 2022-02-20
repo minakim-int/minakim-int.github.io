@@ -15,9 +15,9 @@ entries:
       - title: with subitems
         entries:
           - title: with subsubitems
-            url: posts/school
+            url: _posts/school
           - title: example page
-            url: about
+            url: school
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
