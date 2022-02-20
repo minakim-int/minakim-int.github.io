@@ -14,8 +14,8 @@ entries:
     entries:
       - title: with subitems
         entries:
-          - title: with subsubitems
-            url: ElectronicSheep.html
+          - title: Sheep
+            url: Sheep/JPNtest.html
           - title: example page
             url: school
   - title: PRO TIP
