@@ -15,7 +15,7 @@ entries:
       - title: with subitems
         entries:
           - title: with subsubitems
-            url: _posts/school
+            url: ElectronicSheep.html
           - title: example page
             url: school
   - title: PRO TIP
